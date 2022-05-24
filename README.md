@@ -3,7 +3,7 @@
 ## About
 - In this project, I will create a promotional impact dashboard to analyze and display key KPIs. In the dashboard, each visualization is synced up so that if one of the value change, it applies to the other visualization as well. This dashboard is for reporting purposes. 
 
-Dataset can be found [here]()
+Dataset can be found [here](https://github.com/nitesht2/Marketing-Promotional-Impact-Analysis-/blob/main/Sales%2Band%2BPromotion%2BData.xlsx)
 
 ## Tools:
 - Microsoft Excel
